@@ -13,13 +13,13 @@ Scrape product information (such as Title, Price, Rating) from Amazon's search r
 
 **Technologies Used:**
 
-1.requests
+1. requests
 
-2.BeautifulSoup
+2. BeautifulSoup
 
-3.pandas
+3. pandas
 
-4.time (for delays between requests)
+4. time (for delays between requests)
 
 **Output:**
 
